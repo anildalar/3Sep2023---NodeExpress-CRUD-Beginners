@@ -1,0 +1,74 @@
+NodeExpress CRUD Operations: ( Beginer Level )
+
+E.g Do a Student CRUD Operations
+
+Software Design Pattern: -  None (Everthing will be in single file)
+
+
+What we will Learn New Things
+1. Ngrok  (Access LocalHost from Public URL)
+2. Heroku ( Deployment on Internet  )
+	https://devcenter.heroku.com/articles/deploying-nodejs
+
+	Procfile  = Process File
+
+mongodb+srv://oklabs:<password>@oklabsmongodbserver.dgmru.mongodb.net/?retryWrites=true&w=majority
+	
+
+Step. 
+
+1. First we develop locally but test with public url
+2. We deploye on internet then we test with public url(Heroku)
+
+
+https://www.geeksforgeeks.org/node-js-crud-operations-using-mongoose-and-mongodb-atlas/
+
+
+https://ngrok.com/
+
+https://github.com/anildalar/3-Sept-2022---NodeExpress-Student-CRUD-Example/pull/new/master
+https://github.com/anildalar/3-Sept-2022---NodeExpress-Student-CRUD-Example.git
+
+
+CRUD
+
+Create - Done
+Read -   Done
+Upage - Done
+Delete - Done
+
+
+https://www.mongodb.com/docs/mongodb-shell/reference/compatibility/#std-label-compatibility
+
+
+https://www.w3schools.com/howto/howto_js_remove_property_object.asp#:~:text=The%20delete%20operator%20deletes%20both,effect%20on%20variables%20or%20functions.
+
+
+
+
+
+
+
+
+
+
+
+
+______________________________________________________________
+
+NodeExpress CRUD Operations: ( Advanced Level )
+		RoleBased Token.
+
+Software Design Pattern: - MonoLithic/MVC
+
+Role : Admin,Teacher,Student
+
+
+What we will Learn New Things
+1. Ngrok (Access LocalHost from Public URL)
+2. To Work with JWT Tokens
+
+Step. 
+
+1. First we develop locally but test with public url
+2. We deploye on internet then we test with public url(Heroku)
